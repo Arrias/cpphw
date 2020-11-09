@@ -1,5 +1,5 @@
 #include "../include/io.h"
 
-void logDebug(char c) {
-	printf("%c\n", c);
+int max(int a, int b, int c, int d){
+	return a * b * c * d;
 }
